@@ -1,0 +1,34 @@
+body{
+    background-image: url(https://th.bing.com/th?id=OIP.JWqrNECDWLzHBay8lgr68AHaE7&w=306&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    }
+h2{
+    color: darkblue;
+    font-size: 50px;
+    font-family: cursive;
+    
+    
+}
+dt{
+    color: red;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+dd{
+    color: darkgreen;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+img{
+    height: 2px;
+    width: 1
+    px;
+
+}
+h1{
+    text-align: center;
+}
